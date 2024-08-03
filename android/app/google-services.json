@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "171236075471",
+    "project_id": "quizapp-flutter-b42aa",
+    "storage_bucket": "quizapp-flutter-b42aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171236075471:android:6926986a12f22a2c9094ba",
+        "android_client_info": {
+          "package_name": "me.korchi.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171236075471-o1m97f4eff32a41emva2j87u8hv3dstp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.korchi.quizapp",
+            "certificate_hash": "b3ae702b6abfb52c33ec174ab537b66f1d36de79"
+          }
+        },
+        {
+          "client_id": "171236075471-hektijo6l2eppgmo4up06f0iu340cehd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoFuVHxTj1dJKqtzPyL8_4PzafUb9PQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171236075471-hektijo6l2eppgmo4up06f0iu340cehd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171236075471-msap0aaqjcb0hju1qkukdlbljcdede1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.korchi.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
